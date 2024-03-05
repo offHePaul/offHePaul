@@ -28,7 +28,7 @@
 <div align="left">
   <img src="https://icons8.com/icon/7I3BjCqe9rjG/flutter" height="40" alt="Flutter Logo"  />
   <img width="12" />
-  <img src="https://icons8.com/icon/62452/firebase" height="40" alt="Flutter Logo"  />
+  <img src="https://icons8.com/icon/62452/firebase" height="40" alt="Firebase Logo"  />
   <img width="12" />
   <img src="https://icons8.com/icon/108784/javascript" height="40" alt="Javascript Logo"  />
   <img width="12" />
