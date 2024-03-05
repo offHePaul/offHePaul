@@ -26,17 +26,19 @@
 ###
 
 <div align="left">
-  <img src="https://icons8.com/icon/7I3BjCqe9rjG/flutter.svg" height="40" alt="go logo"  />
+  <img src="https://icons8.com/icon/7I3BjCqe9rjG/flutter" height="40" alt="Flutter Logo"  />
   <img width="12" />
-  <img src="https://icons8.com/icon/108784/javascript" height="40" alt="ruby logo"  />
+  <img src="https://icons8.com/icon/62452/firebase" height="40" alt="Flutter Logo"  />
   <img width="12" />
-  <img src="https://icons8.com/icon/v8RpPQUwv0N8/html-5" height="40" alt="dot-net logo"  />
+  <img src="https://icons8.com/icon/108784/javascript" height="40" alt="Javascript Logo"  />
   <img width="12" />
-  <img src="https://icons8.com/icon/21278/css3" height="40" alt="firebase logo"  />
+  <img src="https://icons8.com/icon/v8RpPQUwv0N8/html-5" height="40" alt="HTML Logo"  />
   <img width="12" />
-  <img src="https://icons8.com/icon/13441/python" height="40" alt="amazonwebservices logo"  />
+  <img src="https://icons8.com/icon/21278/css3" height="40" alt="CSS Logo"  />
   <img width="12" />
-  <img src="https://icons8.com/icon/40669/c%2B%2B" height="40" alt="circleci logo"  />
+  <img src="https://icons8.com/icon/13441/python" height="40" alt="Python Logo"  />
+  <img width="12" />
+  <img src="https://icons8.com/icon/40669/c%2B%2B" height="40" alt="C# Logo"  />
   <img width="12" />
 </div>
 
