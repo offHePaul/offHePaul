@@ -26,7 +26,7 @@
 ###
 
 <div align="left">
-  <img src="https://icons8.com/icon/7I3BjCqe9rjG/flutter" height="40" alt="go logo"  />
+  <img src="https://icons8.com/icon/7I3BjCqe9rjG/flutter.svg" height="40" alt="go logo"  />
   <img width="12" />
   <img src="https://icons8.com/icon/108784/javascript" height="40" alt="ruby logo"  />
   <img width="12" />
