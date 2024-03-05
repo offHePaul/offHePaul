@@ -26,19 +26,21 @@
 ###
 
 <div align="left">
-  <img src="" height="40" alt="Flutter Logo"  />
+  <img src="https://github.com/offHePaul/offHePaul/assets/159169707/38408aef-71c8-45b0-acba-57cdddecfa01" alt="Flutter Logo"  />
   <img width="12" />
   <img src="https://github.com/offHePaul/offHePaul/assets/159169707/a9e61841-1e1d-46fa-957d-84125d1a04a7" alt="Firebase Logo"  />
   <img width="12" />
-  <img src="https://icons8.com/icon/108784/javascript" height="40" alt="Javascript Logo"  />
+  <img src="https://github.com/offHePaul/offHePaul/assets/159169707/e802f0b0-1c1d-498b-be0a-e9bc268a211c" alt="Javascript Logo"  />
   <img width="12" />
-  <img src="https://icons8.com/icon/v8RpPQUwv0N8/html-5" height="40" alt="HTML Logo"  />
+  <img src="https://github.com/offHePaul/offHePaul/assets/159169707/7e210ff6-1465-4a5a-92ba-8bc016348b7a" alt="HTML Logo"  />
   <img width="12" />
-  <img src="https://icons8.com/icon/21278/css3" height="40" alt="CSS Logo"  />
+  <img src="https://github.com/offHePaul/offHePaul/assets/159169707/4962e1d4-3052-4883-9a48-399cb13e8dd1" alt="CSS Logo"  />
   <img width="12" />
-  <img src="https://icons8.com/icon/13441/python" height="40" alt="Python Logo"  />
+  <img src="https://github.com/offHePaul/offHePaul/assets/159169707/0b96e150-5252-425d-97c7-5dc90bd746e1" alt="Python Logo"  />
   <img width="12" />
-  <img src="https://icons8.com/icon/40669/c%2B%2B" height="40" alt="C# Logo"  />
+  <img src="https://github.com/offHePaul/offHePaul/assets/159169707/43c3d363-e0a3-4be5-b957-121a57b5fc13" alt="C# Logo"  />
+  <img width="12" />
+  <img src="https://github.com/offHePaul/offHePaul/assets/159169707/41668b69-705f-4817-abf4-64efb10b7170" alt="Symfony Logo"  />
   <img width="12" />
 </div>
 
